@@ -1,0 +1,101 @@
+{
+    "Teknik Informatika": {
+      "Saya senang memecahkan teka-teki logika atau permainan strategi": 1,
+      "Saya suka menyusun langkah-langkah pemecahan masalah secara sistematis": 1,
+      "Saya mampu menemukan kesalahan dalam prosedur atau alur kerja": 1,
+      "Saya menikmati pelajaran matematika dan hitungan": 1,
+      "Saya nyaman dengan konsep abstrak seperti algoritma dan logika matematika": 1,
+      "Saya sering membantu menyelesaikan soal matematika": 1,
+      "Saya senang ketika berhasil menyelesaikan soal matematika kompleks": 1,
+      "Saya menikmati mengembangkan ide baru dan inovatif": 1,
+      "Saya sering menemukan solusi yang tidak biasa terhadap suatu masalah": 1,
+      "Saya suka memadukan teknologi dengan unsur seni": 1
+    },
+    "Sistem Informasi": {
+      "Saya mudah memahami pola dan hubungan antara berbagai konsep": 1,
+      "Saya tertarik merancang sistem yang efisien dan terstruktur": 1,
+      "Saya suka meneliti dan menganalisis data untuk menemukan pola tersembunyi": 1,
+      "Saya senang membandingkan dan mengevaluasi berbagai solusi secara rasional": 1,
+      "Saya suka mengolah data dan membuat laporan statistik": 1,
+      "Saya tertarik mempelajari model-model kuantitatif": 1,
+      "Saya suka membuat grafik, tabel, dan visualisasi data": 1,
+      "Saya cepat memahami perhitungan dan logika dibaliknya": 1,
+      "Saya mampu menyusun laporan atau artikel dengan bahasa yang baik": 1,
+      "Saya senang menganalisis teks atau artikel dan menarik kesimpulan": 1
+    },
+    "Teknologi Informasi": {
+      "Saya tertarik merancang sistem yang efisien dan terstruktur": 1,
+      "Saya lebih suka bekerja dengan sistem daripada berinteraksi sosial": 1,
+      "Saya menikmati tantangan memahami cara kerja perangkat atau mesin": 1,
+      "Saya nyaman dengan konsep abstrak seperti algoritma dan logika matematika": 1,
+      "Saya menikmati pelajaran matematika dan hitungan": 1,
+      "Saya nyaman menghitung anggaran dan memperkirakan biaya": 1,
+      "Saya tertarik dengan penggunaan logika matematika dalam pemrograman": 1,
+      "Saya cepat memahami perhitungan dan logika dibaliknya": 1,
+      "Saya sering mempunyai ide out-of-the-box saat brainstorming": 1
+    },
+    "Rekayasa Komputer": {
+      "Saya senang memecahkan teka-teki logika atau permainan strategi": 1,
+      "Saya lebih suka bekerja dengan sistem daripada berinteraksi sosial": 1,
+      "Saya menikmati tantangan memahami cara kerja perangkat atau mesin": 1,
+      "Saya tertarik dengan penggunaan logika matematika dalam pemrograman": 1,
+      "Saya suka merancang sesuatu dari awal hingga jadi produk akhir": 1,
+      "Saya mudah memahami instruksi verbal dan mengaplikasikannya": 1,
+      "Saya terbiasa membuat keputusan berdasarkan data numerik": 1
+    },
+    "Psikologi": {
+      "Saya mudah memahami pola dan hubungan antara berbagai konsep": 1,
+      "Saya suka meneliti dan menganalisis data untuk menemukan pola tersembunyi": 1,
+      "Saya tertarik mempelajari model-model kuantitatif": 1,
+      "Saya menikmati membaca buku dan menulis cerita": 1,
+      "Saya percaya diri menjelaskan konsep secara lisan atau tulisan": 1,
+      "Saya mampu menyusun laporan atau artikel dengan bahasa yang baik": 1,
+      "Saya bisa memahami bacaan panjang dan menangkap maknanya": 1,
+      "Saya sering menulis catatan atau ringkasan dari sesuatu yang saya pelajari": 1,
+      "Saya senang menganalisis teks atau artikel dan menarik kesimpulan": 1,
+      "Saya sering menemukan solusi yang tidak biasa terhadap suatu masalah": 1
+    },
+    "Pendidikan Guru SD": {
+      "Saya sering membantu menyelesaikan soal matematika": 1,
+      "Saya senang ketika berhasil menyelesaikan soal matematika kompleks": 1,
+      "Saya menikmati membaca buku dan menulis cerita": 1,
+      "Saya percaya diri menjelaskan konsep secara lisan atau tulisan": 1,
+      "Saya suka menyampaikan pendapat saya dalam diskusi": 1,
+      "Saya bisa memahami bacaan panjang dan menangkap maknanya": 1,
+      "Saya senang menyusun presentasi atau membuat konten naratif": 1,
+      "Saya sering menulis catatan atau ringkasan dari sesuatu yang saya pelajari": 1,
+      "Saya memiliki kemampuan komunikasi interpersonal yang baik": 1,
+      "Saya senang membuat storyboard, poster atau materi visual lainnya": 1
+    },
+    "Manajemen": {
+      "Saya suka menyusun langkah-langkah pemecahan masalah secara sistematis": 1,
+      "Saya mampu menemukan kesalahan dalam prosedur atau alur kerja": 1,
+      "Saya senang membandingkan dan mengevaluasi berbagai solusi secara rasional": 1,
+      "Saya suka mengolah data dan membuat laporan statistik": 1,
+      "Saya nyaman menghitung anggaran dan memperkirakan biaya": 1,
+      "Saya terbiasa membuat keputusan berdasarkan data numerik": 1,
+      "Saya suka menyampaikan pendapat saya dalam diskusi": 1,
+      "Saya mudah memahami instruksi verbal dan mengaplikasikannya": 1,
+      "Saya memiliki kemampuan komunikasi interpersonal yang baik": 1
+    },
+    "Desain Komunikasi Visual": {
+      "Saya senang menyusun presentasi atau membuat konten naratif": 1,
+      "Saya suka menggambar, mendesain, atau membuat karya seni": 1,
+      "Saya menikmati mengembangkan ide baru dan inovatif": 1,
+      "Saya tertarik dengan warna, bentuk, dan estetika visual": 1,
+      "Saya merasa nyaman mengeksploriasi berbagai cara untuk menyelesaikan tugas": 1,
+      "Saya senang membuat storyboard, poster atau materi visual lainnya": 1,
+      "Saya sering mempunyai ide out-of-the-box saat brainstorming": 1,
+      "Saya percaya diri mengekspresikan diri lewat media visual": 1,
+      "Saya suka memadukan teknologi dengan unsur seni": 1
+    },
+    "Desain Produk Tekstil": {
+      "Saya suka membuat grafik, tabel, dan visualisasi data": 1,
+      "Saya suka menggambar, mendesain, atau membuat karya seni": 1,
+      "Saya tertarik dengan warna, bentuk, dan estetika visual": 1,
+      "Saya suka merancang sesuatu dari awal hingga jadi produk akhir": 1,
+      "Saya percaya diri mengekspresikan diri lewat media visual": 1,
+      "Saya merasa nyaman mengeksploriasi berbagai cara untuk menyelesaikan tugas": 1,
+      "Saya sering mempunyai ide out-of-the-box saat brainstorming": 1
+    }
+  }

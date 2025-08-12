@@ -1,0 +1,242 @@
+[
+    {
+      "id": "q1",
+      "text": "Saya senang memecahkan teka-teki logika atau permainan strategi",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q2",
+      "text": "Saya mudah memahami pola dan hubungan antara berbagai konsep",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q3",
+      "text": "Saya tertarik merancang sistem yang efisien dan terstruktur",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q4",
+      "text": "Saya suka menyusun langkah-langkah pemecahan masalah secara sistematis",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q5",
+      "text": "Saya lebih suka bekerja dengan sistem daripada berinteraksi sosial",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q6",
+      "text": "Saya menikmati tantangan memahami cara kerja perangkat atau mesin",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q7",
+      "text": "Saya mampu menemukan kesalahan dalam prosedur atau alur kerja",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q8",
+      "text": "Saya nyaman dengan konsep abstrak seperti algoritma dan logika matematika",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q9",
+      "text": "Saya suka meneliti dan menganalisis data untuk menemukan pola tersembunyi",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q10",
+      "text": "Saya senang membandingkan dan mengevaluasi berbagai solusi secara rasional",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q11",
+      "text": "Saya menikmati pelajaran matematika dan hitungan",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q12",
+      "text": "Saya suka mengolah data dan membuat laporan statistik",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q13",
+      "text": "Saya nyaman menghitung anggaran dan memperkirakan biaya",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q14",
+      "text": "Saya tertarik mempelajari model-model kuantitatif",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q15",
+      "text": "Saya sering membantu menyelesaikan soal matematika",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q16",
+      "text": "Saya suka membuat grafik, tabel, dan visualisasi data",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q17",
+      "text": "Saya tertarik dengan penggunaan logika matematika dalam pemrograman",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q18",
+      "text": "Saya senang ketika berhasil menyelesaikan soal matematika kompleks",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q19",
+      "text": "Saya terbiasa membuat keputusan berdasarkan data numerik",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q20",
+      "text": "Saya cepat memahami perhitungan dan logika dibaliknya",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q21",
+      "text": "Saya menikmati membaca buku dan menulis cerita",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q22",
+      "text": "Saya percaya diri menjelaskan konsep secara lisan atau tulisan",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q23",
+      "text": "Saya suka menyampaikan pendapat saya dalam diskusi",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q24",
+      "text": "Saya mampu menyusun laporan atau artikel dengan bahasa yang baik",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q25",
+      "text": "Saya bisa memahami bacaan panjang dan menangkap maknanya",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q26",
+      "text": "Saya mudah memahami instruksi verbal dan mengaplikasikannya",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q27",
+      "text": "Saya senang menyusun presentasi atau membuat konten naratif",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q28",
+      "text": "Saya sering menulis catatan atau ringkasan dari sesuatu yang saya pelajari",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q29",
+      "text": "Saya memiliki kemampuan komunikasi interpersonal yang baik",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q30",
+      "text": "Saya senang menganalisis teks atau artikel dan menarik kesimpulan",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q31",
+      "text": "Saya suka menggambar, mendesain, atau membuat karya seni",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q32",
+      "text": "Saya menikmati mengembangkan ide baru dan inovatif",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q33",
+      "text": "Saya tertarik dengan warna, bentuk, dan estetika visual",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q34",
+      "text": "Saya sering menemukan solusi yang tidak biasa terhadap suatu masalah",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q35",
+      "text": "Saya merasa nyaman mengeksploriasi berbagai cara untuk menyelesaikan tugas",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q36",
+      "text": "Saya suka merancang sesuatu dari awal hingga jadi produk akhir",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q37",
+      "text": "Saya senang membuat storyboard, poster atau materi visual lainnya.",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q38",
+      "text": "Saya sering mempunyai ide out-of-the-box saat brainstorming",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q39",
+      "text": "Saya percaya diri mengekspresikan diri lewat media visual",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    },
+    {
+      "id": "q40",
+      "text": "Saya suka memadukan teknologi dengan unsur seni",
+      "type": "single",
+      "options": ["Ya", "Tidak"]
+    }
+  ]
